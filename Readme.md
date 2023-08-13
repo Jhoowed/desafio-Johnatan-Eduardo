@@ -34,4 +34,3 @@ Este é um programa em JavaScript que simula um sistema de caixa de uma lanchone
 - Combos não são considerados itens principais.
 - O valor total da compra é calculado com base na quantidade e valor dos itens do pedido.
 - O desconto ou acréscimo da forma de pagamento é aplicado ao valor total.
-- Tenha um ótimo dia ;D
